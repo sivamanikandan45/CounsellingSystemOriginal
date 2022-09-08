@@ -1,0 +1,5 @@
+package com.Enum;
+
+public enum ChoiceListOption {
+    VIEW_CHOICE_LIST,ADD_CHOICE,REMOVE_CHOICE,REORDER_CHOICE,LOCK_CHOICE,BACK
+}

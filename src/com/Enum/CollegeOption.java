@@ -1,0 +1,5 @@
+package com.Enum;
+
+public enum CollegeOption {
+    DISPLAY_DETAILS,DISPLAY_DEPT_DETAILS,VIEW_ADMITTED_STUDENTS,LOGOUT
+}
